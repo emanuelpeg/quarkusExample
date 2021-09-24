@@ -1,0 +1,2 @@
+com/hexacta/GreetingResourceTest.java
+ com.hexacta.GreetingResourceTest
